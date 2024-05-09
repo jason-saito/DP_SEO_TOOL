@@ -12,4 +12,6 @@ In a world of click bait and misinformation, A.I. has become a great tool to hel
 
 This change has threatened the much-maligned trustworthiness of journalism since many companies now only focus on semi-inaccurate, but gripping headlines in hopes of staying financial viable and culturally relevant. And papers who hope to maintain levels of integrity, like The Daily Pennsylvanian, are punished by focusing on creating accurate-as-possible descriptions for their articles.
 
-A solution to help combat this problem is provided by our DP SEO tool. In an attempt to help our company make its articles as accessible as possible while upholding our standards, we have designed an interface that takes in our previous articles data analytics, the DP writing style guide, and SEO optimization articles. With this data, our interface can produce potential headlines, SEO key words, and other information that can best help support the DP when provided with a .
+A solution to help combat this problem is provided by our DP SEO tool. In an attempt to help our company make its articles as accessible as possible while upholding our standards, we have designed an interface that takes in our previous articles data analytics, the DP writing style guide, and SEO optimization articles. With this data, our interface can produce potential headlines, SEO key words, and other information that can best help support the DP.
+
+# Other Notebooks
