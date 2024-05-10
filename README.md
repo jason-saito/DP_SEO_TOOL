@@ -16,8 +16,8 @@ A solution to help combat this problem is provided by our DP SEO tool. In an att
 
 # Other Notebooks
 
-[Link to example.txt](example.txt)
-[Link to example.txt](example.txt)
+[Overview.txt](Overview.ipynb)
+[Pathways.txt](Pathways.ipynb)
 [Link to example.txt](example.txt)
 [Link to example.txt](example.txt)
 
