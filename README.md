@@ -18,7 +18,8 @@ A solution to help combat this problem is provided by our DP SEO tool. In an att
 
 [Overview.txt](Overview.ipynb)
 [Pathways.txt](Pathways.ipynb)
-[Link to example.txt](example.txt)
-[Link to example.txt](example.txt)
+[Evaluating the LLMs](Evaluating_LLMs.ipynb)
+[Model Creation](Model_Creation.ipynb)
 
+[Try the App!](App.ipynb)
 
