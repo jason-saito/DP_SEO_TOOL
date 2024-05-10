@@ -15,3 +15,10 @@ This change has threatened the much-maligned trustworthiness of journalism since
 A solution to help combat this problem is provided by our DP SEO tool. In an attempt to help our company make its articles as accessible as possible while upholding our standards, we have designed an interface that takes in our previous articles data analytics, the DP writing style guide, and SEO optimization articles. With these vectors, our retrieval augmented generation (R.A.G.) and Claude Opus based interface can produce potential headlines, SEO key words, and other information that can best help support the reach and production of the DP's content.
 
 # Other Notebooks
+
+[Link to example.txt](example.txt)
+[Link to example.txt](example.txt)
+[Link to example.txt](example.txt)
+[Link to example.txt](example.txt)
+
+
