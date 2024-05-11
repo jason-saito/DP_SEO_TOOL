@@ -24,7 +24,7 @@ A solution to help combat this problem is provided by our DP SEO tool. In an att
 
 4) [Model Creation](Model_Creation.ipynb)
 
-5) [Evaluating the LLMs](Evaluating_LLMs.ipynb)
+5) [Evaluating the LLMs](Evaluating_LLM.ipynb)
 
 6) [Try the App!](App.ipynb)
 
